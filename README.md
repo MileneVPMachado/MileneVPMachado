@@ -1,59 +1,75 @@
-# 👩🏻‍💻 Milene Machado
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1:FFC8DD,100:BDE0FE&height=112&section=header"/>
 
-**`Desenvolvedora Front-End`**
+<br>
 
-Me chamo Milene Vitória P. Machado, tenho 23 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera. 
+<div align="center">
+  <img align="center" height="150" src="https://i.imgur.com/WIeRBJW.png" />
+</div>
 
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/miihhmachado/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:milenevpmachado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/milene-machado-2a087b200/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <samp>
+      <br>
+      Hi there! I'm <b>Milene Machado</b>
+  </samp>
+</div>
+
+<div align="center" width="100%">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=FFAFCC&width=435&lines=Student+of+Systems+Analysis+and+Development)](https://git.io/typing-svg" alt="Typing SVG"/>
+</div>
+
+<br>   
+<br>
+<br>
+      
+<div align="center">
+  <img height="165" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api?username=MileneVPMachado&rank_icon=github&show_icons=true&theme=radical&count_private=true">
+  <img height="180" src="https://github-readme-stats-two-nu-4enfq389jr.vercel.app/api/top-langs/?username=MileneVPMachado&layout=compact&theme=radical&count_private=true">
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MileneVPMachado&theme=radical"/>
+</div>
+
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+</div>
+
+<br>
+<br>
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
+<br>
+
+##
+
+<br>
+
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
+
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:milenevpmachado@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-ff3d7c?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/miihhmachado/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/milene-machado-2a087b200/)
   
 </div>
 
+</div>
+<br>
 
-### 🤖 Linguagens e Tecnologias
+</details>
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+##
 
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=MileneVPMachado&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=MileneVPMachado&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1:BDE0FE,100:FFC8DD&height=112&section=footer"/>
